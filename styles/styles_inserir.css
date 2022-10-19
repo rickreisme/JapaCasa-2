@@ -1,0 +1,128 @@
+@font-face{
+    font-family: Bankai;
+    src:url(Bankai.otf);
+  }
+
+@font-face {
+    font-family: BungeeSpice-Regular;
+    src: url(BungeeSpice-Regular.ttf);
+  }
+
+  .buttons-escolha {
+      width: 20rem;
+      height: 2.5rem;
+      border: 0;
+      border-radius: 10px;
+      border: 3px solid rgb(255, 111, 0);
+      padding: 0.5rem;
+      font-size: 1.5rem;
+      margin: 1rem 0 1rem 0;
+      font-family: 'Bankai' , sans-serif;
+      color: red;
+      cursor: pointer;
+  }
+  .buttons-escolha:hover{
+    opacity: 0.5;
+    color: red;
+  }
+  body{
+    background-image: url(lanterns-2792988_1920.jpg);
+    backdrop-filter: blur(0.5px) brightness(1px);
+  }
+  .header p{
+    font-family:'Bankai' , sans-serif; 
+    text-align:center;
+  }
+  .header {
+    font-family:'BungeeSpice-Regular',sans-serif;
+    text-align:center;
+    color: red;
+    font-size: 50px;
+  }
+  .header a:hover{
+    font-size: 58px ;
+  }
+  .header2{
+    font-family: 'Bankai' , sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 27px;
+  }
+  .header1{
+    font-family: 'Bankai' , sans-serif;
+    text-align: center;
+    color: red;
+    font-size: 15px;
+  }
+  .cab{
+    background-color: black;
+    height: 73px;
+  }
+  .opçoes{
+    text-align:left;
+    font-family: 'Bankai' , sans-serif;
+    font-size: 20px;
+    color: white;
+  }
+  .opçoes2{
+    text-align:right;
+    font-family: 'Bankai' , sans-serif;
+    font-size: 20px;
+    color: white;
+  }
+  .tabelas{
+    background-color: black;
+    opacity: 0.9;
+    border-radius: 10%;
+  }
+  .opEs{
+    font-family: 'Bankai' , sans-serif;
+  }
+  .rodapeIns{
+    text-align: center;
+    font-family: 'Bankai' , sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+  }
+  .menu{
+    background-color: rgb(164, 8, 8);
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    color: white;
+    font-family: 'Bankai' , sans-serif;
+    text-align: center;
+    width: auto;
+    font-size: 22px;
+    height: auto;
+  }
+  a:active{
+    color: white;
+  }
+  a:visited{
+      color: white;
+  }
+  a:hover{
+      color: black;
+  }
+  a{
+    text-decoration: none;
+  }
+  #contato a{
+    color: white;
+  }
+  #contato a:hover{
+    color: black;
+  }
+  .header a{
+    color: red;
+  }
+  .header14{
+    font-family: 'BungeeSpice-Regular',sans-serif;
+    text-align:center;
+    color: red;
+    font-size: 90px;
+  }
+  .header14:hover{
+    font-size: 110px;
+  }

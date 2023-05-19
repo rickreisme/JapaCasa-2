@@ -122,7 +122,6 @@
     text-align:center;
     color: red;
     font-size: 90px;
-  }
-  .header14:hover{
-    font-size: 110px;
+    backdrop-filter: brightness(10%);
+    margin-top: 65px;
   }

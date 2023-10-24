@@ -6,6 +6,7 @@
   font-family: BungeeSpice-Regular;
   src: url(BungeeSpice-Regular.ttf);
 }
+
   .buttons-escolha{
       width: 20rem;
       height: 2.5rem;
@@ -129,9 +130,11 @@
     font-size: 22px;
     height: auto;
   }
+
   a:active{
     color: white;
   }
+
   a:visited{
       color: white;
   }
